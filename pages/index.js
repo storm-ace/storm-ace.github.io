@@ -50,9 +50,8 @@ export default function Home() {
           <div>
             <h3 className='text-3xl py-1'>Services I offer</h3>
             <p className='text-md py-2 leading-8 text-gray-600'>
-              Designing Games AI Gameplay scripts are one of my main sources of work. Recently I started doining
-              web-development front and backend. Desiging and developing the backend facinates
-              my and I love to see what people will use it for! I can make entire games or websites from start to finish.
+              Designing Games AI Gameplay scripts are one of my main sources of work. Recently I started doing web-development front and backend.
+              Designing and developing the backend fascinates me and I love to see what people will use it for! I can make entire games or websites from start to finish.
             </p>
             <ul className='text-gray-600 px-3 leading-8'>
               <li>Games</li>
@@ -66,7 +65,7 @@ export default function Home() {
           <div className='text-center shadow-lg p-10 rounded-xl my-10'>
             <h3 className='text-lg font-medium pt-8 pb-5'>Unity game engine</h3>
             <p className='text-gray-800 mb-5'>
-              Make games and apps with powerful unity engine using C#.
+              Make games and apps with a powerful unity engine using C#.
             </p>
             <div className='flex gap-10 justify-center'>
               <Image src="/Unity/U_Logo_Small_Black_RGB_1C.png" width={200} height={100} alt='' />
@@ -75,7 +74,7 @@ export default function Home() {
           <div className='text-center shadow-lg p-10 rounded-xl my-10'>
             <h3 className='text-lg font-medium pt-8 pb-5'>Unreal engine</h3>
             <p className='text-gray-800 mb-5'>
-              Make very detail realistic looking games with unreal engine and power of Nanite using the programming language c++.
+              Ability to make very detailed realistic looking games with Unreal Engine and power of Nanite using the programming language c++.
             </p>
             <div className='flex gap-10 justify-center'>
               <Image src="/UnrealEngine.png" width={200} height={100} alt='' />
@@ -84,11 +83,18 @@ export default function Home() {
         </section>
         <section>
           <div>
-            <h3 className='text-3xl py-1'>Portofolio</h3>
-            <p className='text-md py-2 leading-8 text-gray-800'>I began my freelancher job at age of 16 and working for people that wanna to make <span>roblox</span> game.
-              From there I started working in <span className='text-teal-500'>Unity</span> and <span className='text-teal-500'>Unreal Engine</span> to develop apps and games.
-              I also started to get a intrest in making websites and backend applications
-              so I learned how to become a <span className='text-teal-500'>full stack developer</span> and fully any course I could get my hands on.
+            <h3 className='text-3xl py-1'>Portfolio</h3>
+            <p className='text-md py-2 leading-8 text-gray-800'>I began my freelance job at age of 16 and worked for people that wanna make
+              <span>roblox</span>
+              games.
+              From there I started working in
+              <span className='text-teal-500'>Unity</span>
+              and
+              <span className='text-teal-500'>Unreal Engine</span>
+              to develop apps and games.
+              I also started to get an interest in making websites and backend applications so I learned how to become a
+              <span className='text-teal-500'>full stack developer</span>
+              and fully any course I could get my hands on.
             </p>
           </div>
           <div className='flex flex-col gap-10 py-10 lg:flex-row lg-flex-wrap'>
