@@ -85,16 +85,16 @@ export default function Home() {
           <div>
             <h3 className='text-3xl py-1'>Portfolio</h3>
             <p className='text-md py-2 leading-8 text-gray-800'>I began my freelance job at age of 16 and worked for people that wanna make
-              <span>roblox</span>
+              <span> roblox </span>
               games.
               From there I started working in
               <span className='text-teal-500'>Unity</span>
               and
-              <span className='text-teal-500'>Unreal Engine</span>
+              <span className='text-teal-500'> Unreal Engine </span>
               to develop apps and games.
               I also started to get an interest in making websites and backend applications so I learned how to become a
-              <span className='text-teal-500'>full stack developer</span>
-              and fully any course I could get my hands on.
+              <span className='text-teal-500'> full stack developer </span>
+               and fully any course I could get my hands on.
             </p>
           </div>
           <div className='flex flex-col gap-10 py-10 lg:flex-row lg-flex-wrap'>
