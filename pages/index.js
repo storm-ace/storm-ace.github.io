@@ -88,7 +88,7 @@ export default function Home() {
               <span> roblox </span>
               games.
               From there I started working in
-              <span className='text-teal-500'>Unity</span>
+              <span className='text-teal-500'> Unity </span>
               and
               <span className='text-teal-500'> Unreal Engine </span>
               to develop apps and games.
