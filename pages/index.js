@@ -94,7 +94,7 @@ export default function Home() {
               to develop apps and games.
               I also started to get an interest in making websites and backend applications so I learned how to become a
               <span className='text-teal-500'> full stack developer </span>
-               and fully any course I could get my hands on.
+               and learn any course I could get my hands on.
             </p>
           </div>
           <div className='flex flex-col gap-10 py-10 lg:flex-row lg-flex-wrap'>
