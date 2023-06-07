@@ -8,7 +8,6 @@ export default function App({ Component, pageProps }) {
         strategy='afterInteractive'
         src='https://www.googletagmanager.com/gtag/js?id=G-9DEHE414DT'
       />
-
       <Script async src="https://www.googletagmanager.com/gtag/js?id=G-9DEHE414DT" />
       <Script>
         {`
@@ -19,7 +18,6 @@ export default function App({ Component, pageProps }) {
         gtag('config', 'G-9DEHE414DT');
         `}
       </Script>
-
       <Component {...pageProps} />
     </>
   )
