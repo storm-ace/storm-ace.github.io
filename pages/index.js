@@ -98,11 +98,22 @@ export default function Home() {
             </p>
           </div>
           <div className='flex flex-col gap-10 py-10 lg:flex-row lg-flex-wrap'>
-            <iframe width="420" height="420" src="https://www.youtube.com/embed/J33UdiKn0lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-            <div className='basis-1/3 flex-1'>
-              <Image className='rounded-lg object-cover shadow-lg' src={hooligans} alt='' />
-            </div>
-          </div>
+   <div className='aspect-w-16 aspect-h-16 lg:w-1/2'>
+      <iframe
+         className='rounded-lg object-cover shadow-lg'
+         width="420"
+         height="420"
+         src="https://www.youtube.com/embed/J33UdiKn0lw"
+         title="YouTube video player"
+         frameborder="0"
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+         allowFullScreen
+      ></iframe>
+   </div>
+   <div className='basis-1/3 flex-1'>
+      <Image className='rounded-lg object-cover shadow-lg' src={hooligans} alt='' />
+   </div>
+</div>
         </section>
       </main>
     </div>
