@@ -27,7 +27,7 @@ export default function Home() {
               {/* <li><MdDarkMode className='cursor-pointer text-2xl'
                 onClick={() => setDarkMode(!darkMode)} /></li> */}
               <li><BsLinkedin className='cursor-pointer text-2xl' /></li>
-              <li><a className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8' href='https://www.linkedin.com/in/wesley-coomans-9458a9177/'>Linkin</a></li>
+              <li><a className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8' href='https://www.linkedin.com/in/wesley-coomans-9458a9177/'>LinkedIn</a></li>
             </ul>
           </nav>
           <div className='text-center p-10'>
